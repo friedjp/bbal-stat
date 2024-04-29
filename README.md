@@ -1,2 +1,3 @@
 # bbal-stat
-(Website) Basketball Statistics Tracker 
+Assginment done for school
+
